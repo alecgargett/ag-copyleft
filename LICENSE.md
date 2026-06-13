@@ -1,12 +1,12 @@
 # Alec Gargett Conditional Copyleft Creative License
 
-Summary: permission to use with fair attribution where convenient, and fair payment in cases of large increases in profits resulting from that use.
+Summary: permission to use with fair attribution, and fair payment in cases of substantial profits, only when not undermining my own income or related business goals.
 
 This license conditionally grants rights for anyone to view, study, use (publicly or privately), link, share, copy, publish, distribute, profit from, sublicense or modify this work including any and all source code and any modifications on the conditions that:
 
 1) The artist or author (myself) is credited clearly and at least as clearly as fair and practical for the work and for the portion of the derivitive work that is his.
 
-2) If any profits are made from the work or from a derivitive product:
+2) If any profits are made from products using the work:
 
 i) The artist or author (myself) is informed promptly and within a month;
 
